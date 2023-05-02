@@ -1,0 +1,23 @@
+﻿category;component_0;component_1
+ticket_type_barato;                   0.077050; 0.228901
+ticket_type_caro ;                   -0.027415; -0.130779
+ticket_type_médio;                   -0.020861; -0.037395
+expense_high;                        -0.642796; -0.556624
+expense_low ;                         1.645831; -0.175956
+expense_moderate ;                   -0.441958;  1.068621
+expense_very high ;                  -0.690504; -1.416802
+subscription_time_1-2 years ;        -0.022871; -0.012810
+subscription_time_2-3 years;          0.037047; -0.022201
+subscription_time_3-6 months;        -0.282761;  2.126278
+subscription_time_6-12 months  ;     -0.928564; -0.680529
+subscription_time_More than 3 years; -0.041644; -0.022225
+subscription_time_Up to 3 months;     2.571908; -0.276701
+items_pattern_6 to 10   ;             0.014993; -0.000203
+items_pattern_more than 10 ;         -0.013158; -0.027146
+items_pattern_until 5  ;             -0.033203;  0.043004
+orders_qtd_2 to 5   ;                -0.405681;  1.376501
+orders_qtd_5-10    ;                 -0.595407;  0.037564
+orders_qtd_more than 8  ;            -0.681810;-1.287873
+orders_qtd_until 2  ;                 1.633601; -0.168866
+churn_no           ;                 -0.020317; -0.011350
+churn_yes        ;                    0.382006;  0.213398
